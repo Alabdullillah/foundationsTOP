@@ -1,17 +1,17 @@
-#odd {
+.odd {
     color: aqua;
-    background-color: black;
+    background-color: rgb(207, 101, 101);
     font-family: Verdana, dejavu sans, sans-serif;
 }
-.no2 {
+#no2 {
     color: blueviolet;
     background-color: bisque;
 }
-.no3 {
+#no3 {
     font-size: 24px;
     font-weight: bold;
 }
-.no4 {
+#no4 {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
