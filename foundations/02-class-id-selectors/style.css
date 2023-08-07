@@ -1,8 +1,12 @@
-#no1 {
+#odd {
     color: aqua;
     background-color: black;
+    font-family: Verdana, dejavu sans, sans-serif;
 }
 .no2 {
     color: blueviolet;
     background-color: bisque;
+}
+.no3 {
+    
 }
